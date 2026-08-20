@@ -2,7 +2,6 @@ langchain
 langchain-community
 langchain-core
 langchain-chroma
-langchain-groq
 langchain-text-splitters
 chromadb
 sentence-transformers
@@ -11,3 +10,8 @@ streamlit
 pandas
 python-dotenv
 pillow
+pydantic
+ipykernel
+langchain-groq
+langsmith
+torchvision
